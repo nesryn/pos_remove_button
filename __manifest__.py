@@ -10,7 +10,7 @@
     """,
 
     'category': 'pos',
-    'version': '0.1',
+    'version': '15.0',
     'author': "Nesrine Essaies",
     'license': 'LGPL-3',
 
