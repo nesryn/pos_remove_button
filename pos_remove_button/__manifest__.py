@@ -24,6 +24,7 @@
     # only loaded in demonstration mode
     'demo': [
     ],
+    'images': ['static/description/banner.png'],
     'assets': {
         'web.assets_qweb': [
             'pos_remove_button/static/src/xml/Screens/ProductScreen/ProductItem.xml',
